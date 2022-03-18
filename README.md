@@ -1,1 +1,1 @@
-# Education_System
+# EducationSystem
